@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1673301138 source:d:\codeblocks\eval\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+	<windows.h>
+	<mmsystem.h>
+	<cmath>
+	<graphics.h>
+	<fstream>
+
+1673303380 source:d:\eval_ip\eval\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<stdio.h>
+	<cstring>
+	<windows.h>
+	<mmsystem.h>
+	<cmath>
+	<graphics.h>
+	<fstream>
+
